@@ -20,5 +20,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', version
   s.add_dependency 'devise', '= 1.4.7'
-  s.add_dependency 'cancan', '= 1.6.5'
+  s.add_dependency 'cancan', '>= 1.6.5'
 end
